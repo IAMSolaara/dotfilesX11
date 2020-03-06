@@ -5,4 +5,7 @@ pnmixer &
 udiskie -t -n -A &
 twmnd &
 xmodmap ~/.Xmodmap
+pasystray &
+nm-applet &
+sxhkd &
 exec i3
